@@ -37,7 +37,7 @@ body {
   }
 
 .header{
-    background-color: dark blue;
+    background-color: #1C2957;
 }
 
 .column4 {
@@ -57,7 +57,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: dark blue;
+    background-color: #1C2957;
   }
   
   li a {
