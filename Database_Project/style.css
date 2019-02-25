@@ -57,7 +57,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #141B4D;
+    background-color: #191970;
   }
   
   li a {
@@ -68,7 +68,7 @@ ul {
   }
   
   li a.active {
-    background-color: #1C2957;
+    background-color: #191970;
     color: white;
   }
   
